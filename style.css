@@ -4,11 +4,6 @@
 }
 
 @font-face {
-    font-family: quicksandgit;
-    src: url(./Quicksand-Bold.woff2);
-}
-
-@font-face {
     font-family: kajiro;
     src: url(./Kajiro\ Bold.woff2);
 }
@@ -153,89 +148,3 @@ html, body{
     font-size: 15px;
     font-weight: 600;
 }
-/* 
-#pview{
-    width: 100%;
-    height: 100vh;
-    background-color: black;
-}
-
-#projects{
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-}
-
-#box1{
-    position: relative;
-    font-family: "quicksand";
-    width: 480px;
-    height: 270px;
-    font-size: 16px;
-    font-weight: 600;
-    border-radius: 12px;
-    background-color: white;
-}
-
-#box1 a{
-    font-weight: 600;
-    font-size: 16px;
-    text-decoration: none;
-    color: black;
-    padding: 10px;
-}
-
-#box2{
-    font-family: "quicksand";
-    width: 480px;
-    height: 270px;
-    font-size: 16px;
-    font-weight: 600;
-    border-radius: 12px;
-    background-color: white;
-}
-
-#box3{
-    font-family: "quicksand";
-    width: 480px;
-    height: 270px;
-    font-size: 16px;
-    font-weight: 600;
-    border-radius: 12px;
-    background-color: white;
-}
-
-#title{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    height: 200px;
-}
-
-#title a{
-    display: flex;
-    font-size: 17px;
-    font-weight: 600;
-    padding-left: 100px;
-    text-decoration: none;
-    color: white;
-}
-
-#title p{
-    .arrow {
-        border: solid rgb(255, 255, 255);
-        border-width: 0 3px 3px 0;
-        display: inline-block;
-        padding: 4px;
-        transform: rotate(135deg);
-        -webkit-transform: rotate(135deg);
-    }
-}
-
-#title h1{
-    padding-right: 865px;
-    color: white;
-} */
